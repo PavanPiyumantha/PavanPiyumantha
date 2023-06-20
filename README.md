@@ -3,8 +3,6 @@
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76112ac0e741fc351734cf5fccc2edff853a2d0d70e3&rid=giphy.gif&ct=g">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pavanpiyumantha44&label=Profile%20views&color=0e75b6&style=flat" alt="pavanpiyumantha" /> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pavanpiyumantha44&label=Profile%20views&color=0e75b6&style=flat" alt="pavanpiyumantha44" /> </p>
-
 - 🌱 I’m currently learning **MERN Stack**
 
 - 💬 Ask me about **react, epress, node, java**
