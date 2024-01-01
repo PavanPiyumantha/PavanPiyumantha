@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hi <img width="35" src="./assets/waving.gif">, I'm Esara</h1>
+<h1 align="center">Hi <img width="35" src="./assets/waving.gif">, I'm Pavan</h1>
 <h4 align="center">An IT undergraduate SLIATE</h4>
 </div>
 
@@ -92,10 +92,6 @@
    <samp>
    <h3 align="center">🔗 Connect with me:</h3>
    <div align="center">
-
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esara-sithumal/)
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wmesithumal2@gmail.com)
-
    </div>
    </samp>
 </div>
